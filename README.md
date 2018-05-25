@@ -14,8 +14,8 @@ Second, add `id="camera"` to your camera element,
 or create a new camera entity with `id="camera"`:
 ```
 <a-entity camera id="camera" position="0 1.6 0" look-controls wasd-controls>
-
 ```
+
 #### Step 3
 Add `joystick` to your `a-scene` element 
 ```  
