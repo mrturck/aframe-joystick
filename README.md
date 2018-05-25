@@ -2,6 +2,8 @@
 An aframe component for "wasd"-like motion on mobile.
 Demo here: https://sour-lyric.glitch.me/
 
+Many thanks to [@yoannmoinet](https://github.com/yoannmoinet) for creating [NippleJS](https://github.com/yoannmoinet/nipplejs). This project is 95% NippleJS with a small adaptation for A-Frame
+
 ## Usage
 #### Step 1
 You'll need to include the script in your project: 
