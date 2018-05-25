@@ -1,5 +1,6 @@
 # aframe-joystick
-An aframe component for "wasd"-like motion on mobile
+An aframe component for "wasd"-like motion on mobile.
+Demo here: https://sour-lyric.glitch.me/
 
 ## Usage
 #### Step 1
